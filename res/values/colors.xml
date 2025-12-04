@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_light">#E6FDFF</color>        <!-- arka plan -->
+    <color name="card_light">#DFF6F6</color>      <!-- user card -->
+    <color name="purple_medium">#5A3EA8</color>   <!-- profil dairesi -->
+    <color name="icon_bg">#DDEFF0</color>
+    <color name="search_bg">#DCEFEF</color>
+    <color name="text_primary">#0B1720</color>
+    <color name="primary">#6A4BFF</color>         <!-- link / aksan -->
+    <color name="badge_red">#E94B4B</color>
+    <color name="button_primary">#0A1A3A</color>
+    <color name="nav_bg">#E9F7F7</color>
+    <color name="nav_item_inactive">#F0F3F5</color>
+    <color name="my_primary_background">#ebffff</color>
+    <color name="white">#fff</color>
+    <color name="chip_classic">#9198ff</color>
+    <color name="chip_ekstra">#444bff</color>
+    <color name="chip_premium">#091073</color>
+    <color name="profile_bg">#D3FCFF</color>
+    <color name="text_primary_urun">#000000</color>
+    <color name="service_blue">#0B00D6</color>
+    <color name="icon_dark">#1E1E1E</color>
+    <color name="top_icon_color">#1D1B20</color>
+    <color name="section_light">#E6FBFF</color>
+    <color name="divider">#0A000000</color>
+    <color name="review_grey">#7A7A7A</color>
+</resources>
